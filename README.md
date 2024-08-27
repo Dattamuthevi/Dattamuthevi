@@ -38,17 +38,17 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 <a href="https://twitter.com/datta_muthevi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datta_muthevi" height="35" width="45" />
 </a>
-<a href="https://stackoverflow.com/users/26410375" target="blank">
+<a href="https://stackoverflow.com/users/26833586" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26410375" height="35" width="45" />
 </a>
 </a>
-<a href="https://www.facebook.com/profile.php?id=100077865823539" target="blank">
+<a href="https://www.facebook.com/raghu.datta.92" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kollipara jaswanth" height="35" width="45" />
 </a>
 <a href="https://instagram.com/sr_datta_twenty7" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sr_datta_twenty7" height="35" width="45" />
 </a>
-<a href="https://www.hackerrank.com/21_5457" target="blank">
+<a href="https://www.hackerrank.com/dattamuthevi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21_5457" height="35" width="45" />
 </a>
 <a href="https://leetcode.com/u/s72jVlqHwJ/" target="blank">
