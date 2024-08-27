@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg">
 
-<h1 align="center">Hi 👋, I'm Datta Muthevi</h1>
+<h1 align="center">Hi 👋, I'm Raghu Datta Muthevi</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -23,21 +23,20 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-[![Website](https://img.shields.io/badge/website-00246B?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/jaswanth-kollipara)
-[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolliparajaswanth030@gmail.com)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaswanthgec/)
-[![Blog](https://img.shields.io/badge/Blog-FBBC05?style=for-the-badge&logo=blogger&logoColor=white)](https://kolliparajaswanth.blogspot.com/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9959707255)
-[![Outlook](https://img.shields.io/badge/Outlook-CC313D?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:21481A5457@gecgudlavallerumic.in)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanth-kollipara-896443237/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cw84QZKd)
+[![Website](https://img.shields.io/badge/website-00246B?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/raghudattamuthevi)
+[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dattamuthevi@gmail.com)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dattamuthevi/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7995483847)
+[![Outlook](https://img.shields.io/badge/Outlook-CC313D?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:21481A5490@gecgudlavallerumic.in)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghu-datta-muthevi-7323b6260/)
+
 
 <p align="center">
-<a href="https://www.youtube.com/@jassugec8106" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jassugec8106" height="35" width="45" />
+<a href="https://www.youtube.com/@Chanchela" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@Chanchela" height="35" width="45" />
 </a>
-<a href="https://twitter.com/k_jaswanth3" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_jaswanth3" height="35" width="45" />
+<a href="https://twitter.com/datta_muthevi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datta_muthevi" height="35" width="45" />
 </a>
 <a href="https://stackoverflow.com/users/26410375" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26410375" height="35" width="45" />
@@ -46,27 +45,27 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 <a href="https://www.facebook.com/profile.php?id=100077865823539" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kollipara jaswanth" height="35" width="45" />
 </a>
-<a href="https://instagram.com/jaswanthkollipara" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaswanthkollipara" height="35" width="45" />
+<a href="https://instagram.com/sr_datta_twenty7" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sr_datta_twenty7" height="35" width="45" />
 </a>
 <a href="https://www.hackerrank.com/21_5457" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21_5457" height="35" width="45" />
 </a>
-<a href="https://www.leetcode.com/jaswanth_kollipara" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaswanth_kollipara" height="35" width="45" />
+<a href="https://leetcode.com/u/s72jVlqHwJ/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="datta_muthevi" height="35" width="45" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/kolliparajaswanth030" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kolliparajaswanth030" height="35" width="45" />
+<a href="https://auth.geeksforgeeks.org/user/dattamu2jec" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dattamu2jec" height="35" width="45" />
 </a>
 </p>
 
 ## ⚙️ Working on:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- [Automated Online Exam](https://github.com/jaswanthgec/Automated-Online-Exam) 
-- [Virtual Labs Simulator](https://github.com/jaswanthgec/IIC-Virtual-Labs)
-- [Bar Code Scanner](https://github.com/jaswanthgec/Bar-Code-Scanner.git)
-- [Visualizing app](https://github.com/jaswanthgec/Streamlit_practice)
+- [Attendance Marking System](https://github.com/jaswanthgec/Automated-Online-Exam) 
+- [Rang Rez The Birthday Video Maker](https://github.com/jaswanthgec/IIC-Virtual-Labs)
+- [Cipher Analysis](https://github.com/jaswanthgec/Bar-Code-Scanner.git)
+  
 
 ## 🖥️ Languages and Skills: 🚀
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
